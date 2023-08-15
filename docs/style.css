@@ -1,0 +1,21 @@
+@keyframes example {
+    from {
+        color: rgb(43, 129, 0);
+        left: 0px;
+        top: 0px;
+    }
+
+    to {
+        color: rgb(255, 0, 0);
+        left: 200px;
+        top: 0px;
+    }
+}
+
+.my-element {
+    color: rgb(43, 129, 0);
+    font-family: system-ui;
+    animation-name: example;
+    position: relative;
+    animation-duration: 4s;
+}
