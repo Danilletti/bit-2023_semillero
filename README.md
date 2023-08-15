@@ -1,9 +1,6 @@
-# Hola salven a las ballenas
-## Tituloooo
+# bit-2023_semillero
+## Dia 1
 
-Descripcion ...
+Hola Bienvenido a este repositorio creado para contener conceptos que necesitaremos para realizar un idonio Desarrollo Web.
 
-No es denso
-Douhhhhh
-
-###### hola que denso es esto ### asdasd
+###### Autor Daniel Bautista (Danielletti)
